@@ -2,11 +2,11 @@ import { Metadata } from 'next'
 import VideosClient from './VideosClient'
 
 export const metadata: Metadata = {
-  title: 'Video Library — Gravicos',
-  description: 'Explore free educational video lessons on React, Next.js 14, TypeScript, modern CSS, and web performance. Created by Gravicos.',
+  title: 'Video Library for NEB Science & Management',
+  description: 'Explore free video lessons on Physics, Mathematics, Calculus, and more for Nepali +2 students.',
   openGraph: {
-    title: 'Video Library — Gravicos',
-    description: 'Free, high-quality video tutorials on modern web development.',
+    title: 'NEB +2 Physics & Maths Video Library — Gravicos',
+    description: 'Free, high-quality video tutorials on NEB Class 11 & 12 subjects.',
     type: 'website',
   },
 }

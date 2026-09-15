@@ -4,8 +4,8 @@ import Button from '@/components/Button'
 import ScrollReveal from '@/components/ScrollReveal'
 
 export const metadata: Metadata = {
-  title: 'About — Gravicos Physics & Mathematics Education',
-  description: 'About Gravicos: a STEM education platform and YouTube channel teaching Calculus, Physics, Classical Mechanics, Quantum Physics, and Linear Algebra.',
+  title: 'About',
+  description: 'Learn about Gravicos, a STEM education platform dedicated to helping Nepali +2 students master Mathematics and Physics for NEB board exams and entrance tests.',
 }
 
 const stats = [

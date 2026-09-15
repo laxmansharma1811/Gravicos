@@ -43,5 +43,24 @@ export default function VideoDetailPage({ params }: PageProps) {
     notFound()
   }
 
-  return <VideoDetailClient video={video} />
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
+    name: video.title,
+    description: video.description,
+    thumbnailUrl: [video.thumbnail],
+    uploadDate: video.uploadDate,
+    contentUrl: `https://www.youtube.com/watch?v=${video.youtubeId}`,
+    embedUrl: `https://www.youtube.com/embed/${video.youtubeId}`,
+  }
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <VideoDetailClient video={video} />
+    </>
+  )
 }

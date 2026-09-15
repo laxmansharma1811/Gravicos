@@ -6,8 +6,8 @@ import Button from '@/components/Button'
 import ScrollReveal from '@/components/ScrollReveal'
 
 export const metadata: Metadata = {
-  title: 'Gravicos — Physics & Mathematics Education',
-  description: 'Free, structured video lessons on Calculus, Classical Mechanics, Electromagnetism, Quantum Physics, and Linear Algebra by Gravicos.',
+  title: 'Gravicos — Physics & Maths for NEB +2 Science Students',
+  description: 'Free, high-quality video lessons on Physics and Mathematics for Nepali +2 Science and Management students. Master NEB exams with Gravicos.',
 }
 
 // Learning benefits — Physics & Mathematics focus

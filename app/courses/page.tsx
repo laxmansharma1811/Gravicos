@@ -4,8 +4,8 @@ import FeaturedVideos from '@/components/FeaturedVideos'
 import Button from '@/components/Button'
 
 export const metadata: Metadata = {
-  title: 'Courses & Learning Paths — Gravicos',
-  description: 'Structured learning paths for STEM subjects. Beginner, intermediate, and advanced courses in Calculus, Physics, and more.',
+  title: 'NEB +2 Courses & Learning Paths',
+  description: 'Structured learning paths for NEB Class 11 & 12 Science/Management students. Master Calculus, Physics, and Mathematics step-by-step.',
 }
 
 export default function CoursesPage() {
