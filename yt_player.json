@@ -1,0 +1,2703 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "ipcc",
+            "value": "0"
+          },
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "is_alc_surface",
+            "value": "false"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "visitor_data",
+            "value": "CgtjM1pmT3Y4QlBhYyjK3KTVBjIKCgJOUBIEGgAgF2LfAgrcAjIxLllUPUlEQ2FBSFZEaGdua2I4eTQ5NVhObVdoS2N5WEw4dFBpaDZTZlhqdHRDVTMwQlhXMjdvdVdYeXZ4RHdISV94Y0Y1d0VvV2dtaGhuRklmZUEwaDRuWE1EY01kcEtCYjJtZnNodkxzS1d6RFBtaE4xVEx1SjZRdkU5RWtaSmh3LVdDMUNVWl9CZzVjMHF0MEktMUozNWxBTF9sRkdpeFo4dlYxclhwVlVuVXZDdFdJb0RmU3JlSnRvTjFQR3NtMXZYNDMzb0VCdjRpdUZvUnI0RTItM25ZVW02dWlVNU1HVnUwQUJYTVBwc0stOEFUbkxxSlplZmlaYUFmbGpLT2VESFdKUVFpY3EtTGZPZVRRdUxxbkI3bmJFMnE2UWFIQ1YwcnBVdzU0MDNtU2hxT0lvWmFjQXJyeHIzaG5vRi1JTVBWNEZTRE0xVjFCczNFR0Fsb1hxN3RlUQ%3D%3D"
+          }
+        ]
+      },
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20260911.08.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetPlayer_rid",
+            "value": "0xbd0f4f643c55ca9c"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20260911"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0,
+    "mainAppWebResponseContext": {
+      "loggedOut": true,
+      "trackingParam": "k5_fmPxhoXZRWum3-92TBP50Q_egf8tjKdCnVyuHW1X2i5PHqlp3LM_zazRMkuMYNLBwOcCw59TLtslLKPQGSS"
+    },
+    "responseId": "IhMIktHp9L_wlgMVcqSsAh02NSB4",
+    "webResponseContextExtensionData": {
+      "webResponseContextPreloadData": {
+        "preloadMessageNames": [
+          "miniplayerRenderer",
+          "playerCaptionsTracklistRenderer",
+          "playerStoryboardSpecRenderer",
+          "playerMicroformatRenderer",
+          "cardCollectionRenderer",
+          "cardRenderer",
+          "simpleCardTeaserRenderer",
+          "infoCardIconRenderer",
+          "mealbarPromoRenderer",
+          "buttonRenderer",
+          "endscreenRenderer",
+          "endscreenElementRenderer",
+          "subscribeButtonRenderer",
+          "confirmDialogRenderer",
+          "thumbnailOverlayTimeStatusRenderer",
+          "toggleButtonViewModel",
+          "buttonViewModel"
+        ]
+      },
+      "hasDecorated": true
+    }
+  },
+  "playabilityStatus": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "streamingData": {
+    "expiresInSeconds": "21540",
+    "adaptiveFormats": [
+      {
+        "itag": 137,
+        "mimeType": "video/mp4; codecs=\"avc1.640028\"",
+        "bitrate": 1766584,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "741"
+        },
+        "indexRange": {
+          "start": "742",
+          "end": "5621"
+        },
+        "lastModified": "1789059284458323",
+        "contentLength": "342723095",
+        "quality": "hd1080",
+        "fps": 30,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1130804,
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_1080P"
+      },
+      {
+        "itag": 399,
+        "mimeType": "video/mp4; codecs=\"av01.0.08M.08\"",
+        "bitrate": 625842,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "5579"
+        },
+        "lastModified": "1789059295449848",
+        "contentLength": "104625680",
+        "quality": "hd1080",
+        "fps": 30,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 345209,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_1080P"
+      },
+      {
+        "itag": 136,
+        "mimeType": "video/mp4; codecs=\"avc1.64001f\"",
+        "bitrate": 878961,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "739"
+        },
+        "indexRange": {
+          "start": "740",
+          "end": "5619"
+        },
+        "lastModified": "1789059283605312",
+        "contentLength": "169392952",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 558906,
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_720P"
+      },
+      {
+        "itag": 398,
+        "mimeType": "video/mp4; codecs=\"av01.0.05M.08\"",
+        "bitrate": 387984,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "5579"
+        },
+        "lastModified": "1789059329824195",
+        "contentLength": "66528570",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 219508,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_720P"
+      },
+      {
+        "itag": 397,
+        "mimeType": "video/mp4; codecs=\"av01.0.04M.08\"",
+        "bitrate": 238737,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "5579"
+        },
+        "lastModified": "1789059289214173",
+        "contentLength": "41286392",
+        "quality": "large",
+        "fps": 30,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 136223,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_480P"
+      },
+      {
+        "itag": 134,
+        "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+        "bitrate": 280284,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "740"
+        },
+        "indexRange": {
+          "start": "741",
+          "end": "5620"
+        },
+        "lastModified": "1789059282910161",
+        "contentLength": "57721523",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 190450,
+        "highReplication": true,
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 243,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 197657,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "7285"
+        },
+        "lastModified": "1789059300507444",
+        "contentLength": "33493196",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 110509,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 396,
+        "mimeType": "video/mp4; codecs=\"av01.0.01M.08\"",
+        "bitrate": 162349,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "5579"
+        },
+        "lastModified": "1789059302748843",
+        "contentLength": "28067805",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 92608,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 395,
+        "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+        "bitrate": 93753,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "5579"
+        },
+        "lastModified": "1789059309992646",
+        "contentLength": "17073615",
+        "quality": "small",
+        "fps": 30,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 56333,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_240P"
+      },
+      {
+        "itag": 160,
+        "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+        "bitrate": 71481,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "5618"
+        },
+        "lastModified": "1789059282675895",
+        "contentLength": "15907219",
+        "quality": "tiny",
+        "fps": 30,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 52485,
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_144P"
+      },
+      {
+        "itag": 394,
+        "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+        "bitrate": 57916,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "5579"
+        },
+        "lastModified": "1789059327368834",
+        "contentLength": "11121382",
+        "quality": "tiny",
+        "fps": 30,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 36694,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "2424633",
+        "qualityOrdinal": "QUALITY_ORDINAL_144P"
+      },
+      {
+        "itag": 140,
+        "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+        "bitrate": 132481,
+        "initRange": {
+          "start": "0",
+          "end": "722"
+        },
+        "indexRange": {
+          "start": "723",
+          "end": "3670"
+        },
+        "lastModified": "1789059309693727",
+        "contentLength": "39242023",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 129474,
+        "highReplication": true,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "2424697",
+        "audioSampleRate": "44100",
+        "audioChannels": 2,
+        "loudnessDb": -2.0799999,
+        "trackAbsoluteLoudnessLkfs": -16.08,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      },
+      {
+        "itag": 251,
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 119483,
+        "initRange": {
+          "start": "0",
+          "end": "265"
+        },
+        "indexRange": {
+          "start": "266",
+          "end": "4496"
+        },
+        "lastModified": "1789059296401441",
+        "contentLength": "29277700",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 96599,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "2424661",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": -2.0900002,
+        "trackAbsoluteLoudnessLkfs": -16.09,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      }
+    ],
+    "serverAbrStreamingUrl": "https://rr4---sn-jboxuo2-3uhl.googlevideo.com/videoplayback?expire=1789493930&ei=Si6papKEJ_LIssUPtuqAwQc&ip=2400%3A74e0%3A0%3Aa6e7%3Afc%3A38f9%3A39%3A15ab&id=o-AIxPK0rgNENSDexMqj8oF1z-DnOxM_-ze437L2laHhdM&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=210&met=1789472330%2C&mh=kM&mm=31%2C29&mn=sn-jboxuo2-3uhl%2Csn-fapo3ox25a-3uhk&ms=au%2Crdu&mv=m&mvi=4&pl=50&rms=au%2Cau&initcwndbps=1645000&spc=I-rgId2WslMmRbFzJMywTuIzt9rlA3CC-SbuZekJQVhgKrcXal8mIN5chybyVummajCcdjxg&svpuc=1&ns=yb6_wr5V0OIPuAbDts8OzUYY&sabr=1&rqh=1&mt=1789471728&fvip=1&keepalive=yes&fexp=51565116%2C52178455&c=WEB&n=hwnhJin-pX9e7W7R&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AE0s2JYwRQIhAMBzMC9QKfVFcbDYp2NaLegrMyiD-WS6iuy-7CJetdbfAiBWzA52rRMe6-CUUPulCfsbvKWrm2osRmRKaiU_MBj2fA%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALwLvjhgox_qc9X5rK6g2uHPZqHMvKXoKZe685NF5-diAiAtZ3M0urjJBkUIMpJsq4uqdmP2Kjvv_mukqw1lgyzebA%3D%3D"
+  },
+  "playbackTracking": {
+    "videostatsPlaybackUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/playback?cl=980815445&docid=WUEQnAbOwY8&ei=Si6papKEJ_LIssUPtuqAwQc&fexp=&ns=yt&plid=AAZbg_6afIAr4h2o&el=detailpage&len=2425&of=r-tNlaeQ3jo5aroiK8Ojxg&vm=CAEQABgEOjJBSHFpSlRJd1dJcENMRnRESUtMM3lqcXdWR3JVRTlNa1pJZ2Vqal9tazZ0ZXdZS3lfd2JQQUNPdTRMU1p6ejBUOENSMGZUTFRhTFZBdlBEbTNFY25tdi1hQXZ6WFNtYTVwbUMtbVRpb19TVUpwSDh2dzhXY1RacXJVMGhuV0VqdjRSSlM"
+    },
+    "videostatsDelayplayUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/delayplay?cl=980815445&docid=WUEQnAbOwY8&ei=Si6papKEJ_LIssUPtuqAwQc&fexp=&ns=yt&plid=AAZbg_6afIAr4h2o&el=detailpage&len=2425&of=r-tNlaeQ3jo5aroiK8Ojxg&vm=CAEQABgEOjJBSHFpSlRJd1dJcENMRnRESUtMM3lqcXdWR3JVRTlNa1pJZ2Vqal9tazZ0ZXdZS3lfd2JQQUNPdTRMU1p6ejBUOENSMGZUTFRhTFZBdlBEbTNFY25tdi1hQXZ6WFNtYTVwbUMtbVRpb19TVUpwSDh2dzhXY1RacXJVMGhuV0VqdjRSSlM"
+    },
+    "videostatsWatchtimeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/watchtime?cl=980815445&docid=WUEQnAbOwY8&ei=Si6papKEJ_LIssUPtuqAwQc&fexp=&ns=yt&plid=AAZbg_6afIAr4h2o&el=detailpage&len=2425&of=r-tNlaeQ3jo5aroiK8Ojxg&vm=CAEQABgEOjJBSHFpSlRJd1dJcENMRnRESUtMM3lqcXdWR3JVRTlNa1pJZ2Vqal9tazZ0ZXdZS3lfd2JQQUNPdTRMU1p6ejBUOENSMGZUTFRhTFZBdlBEbTNFY25tdi1hQXZ6WFNtYTVwbUMtbVRpb19TVUpwSDh2dzhXY1RacXJVMGhuV0VqdjRSSlM"
+    },
+    "ptrackingUrl": {
+      "baseUrl": "https://www.youtube.com/ptracking?ei=Si6papKEJ_LIssUPtuqAwQc&plid=AAZbg_6afIAr4h2o&pltype=contentugc&ptk=youtube_none&video_id=WUEQnAbOwY8"
+    },
+    "qoeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/qoe?cl=980815445&docid=WUEQnAbOwY8&ei=Si6papKEJ_LIssUPtuqAwQc&el=detailpage&event=streamingstats&fexp=&ns=yt&plid=AAZbg_6afIAr4h2o"
+    },
+    "atrUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/atr?c=WEB&docid=WUEQnAbOwY8&ei=Si6papKEJ_LIssUPtuqAwQc&len=2425&ns=yt&plid=AAZbg_6afIAr4h2o&ver=2&vm=CAEQABgEOjJBSHFpSlRJd1dJcENMRnRESUtMM3lqcXdWR3JVRTlNa1pJZ2Vqal9tazZ0ZXdZS3lfd2JQQUNPdTRMU1p6ejBUOENSMGZUTFRhTFZBdlBEbTNFY25tdi1hQXZ6WFNtYTVwbUMtbVRpb19TVUpwSDh2dzhXY1RacXJVMGhuV0VqdjRSSlM",
+      "elapsedMediaTimeSeconds": 5
+    },
+    "videostatsScheduledFlushWalltimeSeconds": [
+      10,
+      20,
+      30
+    ],
+    "videostatsDefaultFlushIntervalSeconds": 40
+  },
+  "captions": {
+    "playerCaptionsTracklistRenderer": {
+      "captionTracks": [
+        {
+          "baseUrl": "https://www.youtube.com/api/timedtext?v=WUEQnAbOwY8&ei=Si6papKEJ_LIssUPtuqAwQc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=ne&ip=0.0.0.0&ipbits=0&expire=1789497530&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=5FB36C9B84491C6BA1AF8388828880EC8F50E851.A3EB7E8BE3C2DA56E108CC8A45845E97FD94CCEE&key=yt8&kind=asr&lang=ne",
+          "name": {
+            "simpleText": "नेपाली (स्वतः उत्पन्न)"
+          },
+          "vssId": "a.ne",
+          "languageCode": "ne",
+          "kind": "asr",
+          "isTranslatable": true,
+          "trackName": ""
+        }
+      ],
+      "audioTracks": [
+        {
+          "captionTrackIndices": [
+            0
+          ],
+          "defaultCaptionTrackIndex": 0,
+          "hasDefaultTrack": true,
+          "captionsInitialState": "CAPTIONS_INITIAL_STATE_ON_RECOMMENDED"
+        }
+      ],
+      "translationLanguages": [
+        {
+          "languageCode": "oc",
+          "languageName": {
+            "simpleText": "अक्सिटन"
+          }
+        },
+        {
+          "languageCode": "en",
+          "languageName": {
+            "simpleText": "अङ्ग्रेजी"
+          }
+        },
+        {
+          "languageCode": "az",
+          "languageName": {
+            "simpleText": "अजरबैजानी"
+          }
+        },
+        {
+          "languageCode": "aa",
+          "languageName": {
+            "simpleText": "अफार"
+          }
+        },
+        {
+          "languageCode": "af",
+          "languageName": {
+            "simpleText": "अफ्रिकान्स"
+          }
+        },
+        {
+          "languageCode": "ab",
+          "languageName": {
+            "simpleText": "अब्खाजियाली"
+          }
+        },
+        {
+          "languageCode": "am",
+          "languageName": {
+            "simpleText": "अम्हारिक"
+          }
+        },
+        {
+          "languageCode": "ar",
+          "languageName": {
+            "simpleText": "अरबी"
+          }
+        },
+        {
+          "languageCode": "sq",
+          "languageName": {
+            "simpleText": "अल्बानियाली"
+          }
+        },
+        {
+          "languageCode": "ga",
+          "languageName": {
+            "simpleText": "आइरिस"
+          }
+        },
+        {
+          "languageCode": "is",
+          "languageName": {
+            "simpleText": "आइसल्यान्डियाली"
+          }
+        },
+        {
+          "languageCode": "ak",
+          "languageName": {
+            "simpleText": "आकान"
+          }
+        },
+        {
+          "languageCode": "hy",
+          "languageName": {
+            "simpleText": "आर्मेनियाली"
+          }
+        },
+        {
+          "languageCode": "as",
+          "languageName": {
+            "simpleText": "आसामी"
+          }
+        },
+        {
+          "languageCode": "ig",
+          "languageName": {
+            "simpleText": "इग्बो"
+          }
+        },
+        {
+          "languageCode": "it",
+          "languageName": {
+            "simpleText": "इटालेली"
+          }
+        },
+        {
+          "languageCode": "iu",
+          "languageName": {
+            "simpleText": "इनुक्टिटुट"
+          }
+        },
+        {
+          "languageCode": "id",
+          "languageName": {
+            "simpleText": "इन्डोनेसियाली"
+          }
+        },
+        {
+          "languageCode": "ee",
+          "languageName": {
+            "simpleText": "इवी"
+          }
+        },
+        {
+          "languageCode": "et",
+          "languageName": {
+            "simpleText": "इस्टोनियन"
+          }
+        },
+        {
+          "languageCode": "ug",
+          "languageName": {
+            "simpleText": "उइघुर"
+          }
+        },
+        {
+          "languageCode": "uz",
+          "languageName": {
+            "simpleText": "उज्बेकी"
+          }
+        },
+        {
+          "languageCode": "or",
+          "languageName": {
+            "simpleText": "उडिया"
+          }
+        },
+        {
+          "languageCode": "nso",
+          "languageName": {
+            "simpleText": "उत्तरी सोथो"
+          }
+        },
+        {
+          "languageCode": "ur",
+          "languageName": {
+            "simpleText": "उर्दु"
+          }
+        },
+        {
+          "languageCode": "eo",
+          "languageName": {
+            "simpleText": "एस्पेरान्तो"
+          }
+        },
+        {
+          "languageCode": "ay",
+          "languageName": {
+            "simpleText": "ऐमारा"
+          }
+        },
+        {
+          "languageCode": "om",
+          "languageName": {
+            "simpleText": "ओरोमो"
+          }
+        },
+        {
+          "languageCode": "os",
+          "languageName": {
+            "simpleText": "ओस्सेटिक"
+          }
+        },
+        {
+          "languageCode": "kn",
+          "languageName": {
+            "simpleText": "कन्नाडा"
+          }
+        },
+        {
+          "languageCode": "kk",
+          "languageName": {
+            "simpleText": "काजाख"
+          }
+        },
+        {
+          "languageCode": "kl",
+          "languageName": {
+            "simpleText": "कालालिसुट"
+          }
+        },
+        {
+          "languageCode": "rw",
+          "languageName": {
+            "simpleText": "किन्यारवान्डा"
+          }
+        },
+        {
+          "languageCode": "ky",
+          "languageName": {
+            "simpleText": "किर्गिज"
+          }
+        },
+        {
+          "languageCode": "ku",
+          "languageName": {
+            "simpleText": "कुर्दी"
+          }
+        },
+        {
+          "languageCode": "ko",
+          "languageName": {
+            "simpleText": "कोरियाली"
+          }
+        },
+        {
+          "languageCode": "co",
+          "languageName": {
+            "simpleText": "कोर्सिकन"
+          }
+        },
+        {
+          "languageCode": "ca",
+          "languageName": {
+            "simpleText": "क्याटालन"
+          }
+        },
+        {
+          "languageCode": "kri",
+          "languageName": {
+            "simpleText": "क्रिओ"
+          }
+        },
+        {
+          "languageCode": "hr",
+          "languageName": {
+            "simpleText": "क्रोयसियाली"
+          }
+        },
+        {
+          "languageCode": "qu",
+          "languageName": {
+            "simpleText": "क्वेचुवा"
+          }
+        },
+        {
+          "languageCode": "km",
+          "languageName": {
+            "simpleText": "खमेर"
+          }
+        },
+        {
+          "languageCode": "kha",
+          "languageName": {
+            "simpleText": "खासी"
+          }
+        },
+        {
+          "languageCode": "xh",
+          "languageName": {
+            "simpleText": "खोसा"
+          }
+        },
+        {
+          "languageCode": "gl",
+          "languageName": {
+            "simpleText": "गलिसियाली"
+          }
+        },
+        {
+          "languageCode": "gaa",
+          "languageName": {
+            "simpleText": "गा"
+          }
+        },
+        {
+          "languageCode": "lg",
+          "languageName": {
+            "simpleText": "गान्डा"
+          }
+        },
+        {
+          "languageCode": "gu",
+          "languageName": {
+            "simpleText": "गुजराती"
+          }
+        },
+        {
+          "languageCode": "gn",
+          "languageName": {
+            "simpleText": "गुवारानी"
+          }
+        },
+        {
+          "languageCode": "el",
+          "languageName": {
+            "simpleText": "ग्रीक"
+          }
+        },
+        {
+          "languageCode": "zh-Hant",
+          "languageName": {
+            "simpleText": "चिनियाँ (परम्परागत)"
+          }
+        },
+        {
+          "languageCode": "zh-Hans",
+          "languageName": {
+            "simpleText": "चिनियाँ (सरलिकृत चिनियाँ)"
+          }
+        },
+        {
+          "languageCode": "cs",
+          "languageName": {
+            "simpleText": "चेक"
+          }
+        },
+        {
+          "languageCode": "ka",
+          "languageName": {
+            "simpleText": "जर्जियाली"
+          }
+        },
+        {
+          "languageCode": "de",
+          "languageName": {
+            "simpleText": "जर्मन"
+          }
+        },
+        {
+          "languageCode": "ja",
+          "languageName": {
+            "simpleText": "जापानी"
+          }
+        },
+        {
+          "languageCode": "jv",
+          "languageName": {
+            "simpleText": "जाभानी"
+          }
+        },
+        {
+          "languageCode": "zu",
+          "languageName": {
+            "simpleText": "जुलु"
+          }
+        },
+        {
+          "languageCode": "dz",
+          "languageName": {
+            "simpleText": "जोङ्खा"
+          }
+        },
+        {
+          "languageCode": "tk",
+          "languageName": {
+            "simpleText": "टर्कमेन"
+          }
+        },
+        {
+          "languageCode": "tr",
+          "languageName": {
+            "simpleText": "टर्किश"
+          }
+        },
+        {
+          "languageCode": "ti",
+          "languageName": {
+            "simpleText": "टिग्रिन्या"
+          }
+        },
+        {
+          "languageCode": "tum",
+          "languageName": {
+            "simpleText": "टुम्बुका"
+          }
+        },
+        {
+          "languageCode": "to",
+          "languageName": {
+            "simpleText": "टोङ्गन"
+          }
+        },
+        {
+          "languageCode": "ts",
+          "languageName": {
+            "simpleText": "ट्सोङ्गा"
+          }
+        },
+        {
+          "languageCode": "tn",
+          "languageName": {
+            "simpleText": "ट्स्वाना"
+          }
+        },
+        {
+          "languageCode": "nl",
+          "languageName": {
+            "simpleText": "डच"
+          }
+        },
+        {
+          "languageCode": "da",
+          "languageName": {
+            "simpleText": "डेनिस"
+          }
+        },
+        {
+          "languageCode": "tg",
+          "languageName": {
+            "simpleText": "ताजिक"
+          }
+        },
+        {
+          "languageCode": "tt",
+          "languageName": {
+            "simpleText": "तातार"
+          }
+        },
+        {
+          "languageCode": "ta",
+          "languageName": {
+            "simpleText": "तामिल"
+          }
+        },
+        {
+          "languageCode": "bo",
+          "languageName": {
+            "simpleText": "तिब्बती"
+          }
+        },
+        {
+          "languageCode": "te",
+          "languageName": {
+            "simpleText": "तेलुगु"
+          }
+        },
+        {
+          "languageCode": "th",
+          "languageName": {
+            "simpleText": "थाई"
+          }
+        },
+        {
+          "languageCode": "st",
+          "languageName": {
+            "simpleText": "दक्षिणी सोथो"
+          }
+        },
+        {
+          "languageCode": "dv",
+          "languageName": {
+            "simpleText": "दिबेही"
+          }
+        },
+        {
+          "languageCode": "no",
+          "languageName": {
+            "simpleText": "नर्वेली"
+          }
+        },
+        {
+          "languageCode": "ne",
+          "languageName": {
+            "simpleText": "नेपाली"
+          }
+        },
+        {
+          "languageCode": "new",
+          "languageName": {
+            "simpleText": "नेवारी"
+          }
+        },
+        {
+          "languageCode": "ny",
+          "languageName": {
+            "simpleText": "न्यान्जा"
+          }
+        },
+        {
+          "languageCode": "pa",
+          "languageName": {
+            "simpleText": "पंजाबी"
+          }
+        },
+        {
+          "languageCode": "fy",
+          "languageName": {
+            "simpleText": "पश्चिमी फ्रिसियन"
+          }
+        },
+        {
+          "languageCode": "pam",
+          "languageName": {
+            "simpleText": "पामपाङ्गा"
+          }
+        },
+        {
+          "languageCode": "ps",
+          "languageName": {
+            "simpleText": "पास्तो"
+          }
+        },
+        {
+          "languageCode": "pt",
+          "languageName": {
+            "simpleText": "पोर्तुगी"
+          }
+        },
+        {
+          "languageCode": "pt-PT",
+          "languageName": {
+            "simpleText": "पोर्तुगी (पोर्चुगल)"
+          }
+        },
+        {
+          "languageCode": "pl",
+          "languageName": {
+            "simpleText": "पोलिस"
+          }
+        },
+        {
+          "languageCode": "fa",
+          "languageName": {
+            "simpleText": "फारसी"
+          }
+        },
+        {
+          "languageCode": "fo",
+          "languageName": {
+            "simpleText": "फारोज"
+          }
+        },
+        {
+          "languageCode": "fj",
+          "languageName": {
+            "simpleText": "फिजियन"
+          }
+        },
+        {
+          "languageCode": "fi",
+          "languageName": {
+            "simpleText": "फिनिस"
+          }
+        },
+        {
+          "languageCode": "fil",
+          "languageName": {
+            "simpleText": "फिलिपिनी"
+          }
+        },
+        {
+          "languageCode": "fr",
+          "languageName": {
+            "simpleText": "फ्रान्सेली"
+          }
+        },
+        {
+          "languageCode": "bn",
+          "languageName": {
+            "simpleText": "बंगाली"
+          }
+        },
+        {
+          "languageCode": "my",
+          "languageName": {
+            "simpleText": "बर्मेली"
+          }
+        },
+        {
+          "languageCode": "eu",
+          "languageName": {
+            "simpleText": "बास्क"
+          }
+        },
+        {
+          "languageCode": "ba",
+          "languageName": {
+            "simpleText": "बास्किर"
+          }
+        },
+        {
+          "languageCode": "bg",
+          "languageName": {
+            "simpleText": "बुल्गेरियाली"
+          }
+        },
+        {
+          "languageCode": "be",
+          "languageName": {
+            "simpleText": "बेलारुसी"
+          }
+        },
+        {
+          "languageCode": "bs",
+          "languageName": {
+            "simpleText": "बोस्नियाली"
+          }
+        },
+        {
+          "languageCode": "br",
+          "languageName": {
+            "simpleText": "ब्रेटन"
+          }
+        },
+        {
+          "languageCode": "vi",
+          "languageName": {
+            "simpleText": "भियतनामी"
+          }
+        },
+        {
+          "languageCode": "ve",
+          "languageName": {
+            "simpleText": "भेन्डा"
+          }
+        },
+        {
+          "languageCode": "bho",
+          "languageName": {
+            "simpleText": "भोजपुरी"
+          }
+        },
+        {
+          "languageCode": "mn",
+          "languageName": {
+            "simpleText": "मङ्गोलियाली"
+          }
+        },
+        {
+          "languageCode": "mr",
+          "languageName": {
+            "simpleText": "मराठी"
+          }
+        },
+        {
+          "languageCode": "ml",
+          "languageName": {
+            "simpleText": "मलयालम"
+          }
+        },
+        {
+          "languageCode": "mg",
+          "languageName": {
+            "simpleText": "मलागासी"
+          }
+        },
+        {
+          "languageCode": "ms",
+          "languageName": {
+            "simpleText": "मलाय"
+          }
+        },
+        {
+          "languageCode": "mi",
+          "languageName": {
+            "simpleText": "माओरी"
+          }
+        },
+        {
+          "languageCode": "gv",
+          "languageName": {
+            "simpleText": "मान्क्स"
+          }
+        },
+        {
+          "languageCode": "mt",
+          "languageName": {
+            "simpleText": "माल्टिज"
+          }
+        },
+        {
+          "languageCode": "mfe",
+          "languageName": {
+            "simpleText": "मोरिसेन"
+          }
+        },
+        {
+          "languageCode": "mk",
+          "languageName": {
+            "simpleText": "म्यासेडोनियन"
+          }
+        },
+        {
+          "languageCode": "yi",
+          "languageName": {
+            "simpleText": "यिद्दिस"
+          }
+        },
+        {
+          "languageCode": "uk",
+          "languageName": {
+            "simpleText": "युक्रेनी"
+          }
+        },
+        {
+          "languageCode": "yo",
+          "languageName": {
+            "simpleText": "योरूवा"
+          }
+        },
+        {
+          "languageCode": "ru",
+          "languageName": {
+            "simpleText": "रसियाली"
+          }
+        },
+        {
+          "languageCode": "rn",
+          "languageName": {
+            "simpleText": "रुन्डी"
+          }
+        },
+        {
+          "languageCode": "ro",
+          "languageName": {
+            "simpleText": "रोमानियाली"
+          }
+        },
+        {
+          "languageCode": "lb",
+          "languageName": {
+            "simpleText": "लक्जेम्बर्गी"
+          }
+        },
+        {
+          "languageCode": "lo",
+          "languageName": {
+            "simpleText": "लाओ"
+          }
+        },
+        {
+          "languageCode": "lv",
+          "languageName": {
+            "simpleText": "लात्भियाली"
+          }
+        },
+        {
+          "languageCode": "ln",
+          "languageName": {
+            "simpleText": "लिङ्गाला"
+          }
+        },
+        {
+          "languageCode": "lt",
+          "languageName": {
+            "simpleText": "लिथुआनियाली"
+          }
+        },
+        {
+          "languageCode": "luo",
+          "languageName": {
+            "simpleText": "लुओ"
+          }
+        },
+        {
+          "languageCode": "lua",
+          "languageName": {
+            "simpleText": "लुबा-लुलुआ"
+          }
+        },
+        {
+          "languageCode": "la",
+          "languageName": {
+            "simpleText": "ल्याटिन"
+          }
+        },
+        {
+          "languageCode": "war",
+          "languageName": {
+            "simpleText": "वारे"
+          }
+        },
+        {
+          "languageCode": "wo",
+          "languageName": {
+            "simpleText": "वुलुफ"
+          }
+        },
+        {
+          "languageCode": "cy",
+          "languageName": {
+            "simpleText": "वेल्श"
+          }
+        },
+        {
+          "languageCode": "sn",
+          "languageName": {
+            "simpleText": "शोना"
+          }
+        },
+        {
+          "languageCode": "sr",
+          "languageName": {
+            "simpleText": "सर्बियाली"
+          }
+        },
+        {
+          "languageCode": "sa",
+          "languageName": {
+            "simpleText": "संस्कृत"
+          }
+        },
+        {
+          "languageCode": "sg",
+          "languageName": {
+            "simpleText": "साङ्गो"
+          }
+        },
+        {
+          "languageCode": "sm",
+          "languageName": {
+            "simpleText": "सामोआ"
+          }
+        },
+        {
+          "languageCode": "sd",
+          "languageName": {
+            "simpleText": "सिन्धी"
+          }
+        },
+        {
+          "languageCode": "si",
+          "languageName": {
+            "simpleText": "सिन्हाली"
+          }
+        },
+        {
+          "languageCode": "su",
+          "languageName": {
+            "simpleText": "सुडानी"
+          }
+        },
+        {
+          "languageCode": "ceb",
+          "languageName": {
+            "simpleText": "सेबुआनो"
+          }
+        },
+        {
+          "languageCode": "crs",
+          "languageName": {
+            "simpleText": "सेसेल्वा क्रिओल फ्रान्सेली"
+          }
+        },
+        {
+          "languageCode": "so",
+          "languageName": {
+            "simpleText": "सोमाली"
+          }
+        },
+        {
+          "languageCode": "gd",
+          "languageName": {
+            "simpleText": "स्कटिस गाएलिक"
+          }
+        },
+        {
+          "languageCode": "es",
+          "languageName": {
+            "simpleText": "स्पेनी"
+          }
+        },
+        {
+          "languageCode": "sk",
+          "languageName": {
+            "simpleText": "स्लोभाकियाली"
+          }
+        },
+        {
+          "languageCode": "sl",
+          "languageName": {
+            "simpleText": "स्लोभेनियाली"
+          }
+        },
+        {
+          "languageCode": "ss",
+          "languageName": {
+            "simpleText": "स्वाती"
+          }
+        },
+        {
+          "languageCode": "sw",
+          "languageName": {
+            "simpleText": "स्वाहिली"
+          }
+        },
+        {
+          "languageCode": "sv",
+          "languageName": {
+            "simpleText": "स्विडिस"
+          }
+        },
+        {
+          "languageCode": "hu",
+          "languageName": {
+            "simpleText": "हङ्गेरियाली"
+          }
+        },
+        {
+          "languageCode": "hmn",
+          "languageName": {
+            "simpleText": "हमोङ"
+          }
+        },
+        {
+          "languageCode": "haw",
+          "languageName": {
+            "simpleText": "हवाइयन"
+          }
+        },
+        {
+          "languageCode": "ha",
+          "languageName": {
+            "simpleText": "हाउसा"
+          }
+        },
+        {
+          "languageCode": "hi",
+          "languageName": {
+            "simpleText": "हिन्दी"
+          }
+        },
+        {
+          "languageCode": "iw",
+          "languageName": {
+            "simpleText": "हिब्रु"
+          }
+        },
+        {
+          "languageCode": "ht",
+          "languageName": {
+            "simpleText": "हैटियाली क्रियोल"
+          }
+        }
+      ],
+      "defaultAudioTrackIndex": 0
+    }
+  },
+  "videoDetails": {
+    "videoId": "WUEQnAbOwY8",
+    "title": "Complex Number Questions & Solutions | Part 1 | Class 12 NEB",
+    "lengthSeconds": "2425",
+    "keywords": [
+      "Gravicus",
+      "Gravicos",
+      "Physics Nepal",
+      "NEB Math",
+      "NEB Physics",
+      "complex numbers questions",
+      "complex number questions",
+      "complex numbers class 12",
+      "complex number numericals",
+      "complex numbers numericals",
+      "complex number problem solving",
+      "complex numbers problem solving",
+      "complex number important questions",
+      "complex numbers exercise",
+      "class 12 complex numbers",
+      "complex numbers NEB",
+      "class 12 mathematics NEB",
+      "class 12 math Nepal",
+      "NEB mathematics",
+      "complex number solutions",
+      "complex number exercise"
+    ],
+    "channelId": "UCzBAHHAxRKILYQTtvjirgtQ",
+    "isOwnerViewing": false,
+    "shortDescription": "Complex Numbers Questions | Problem Solving Part 1 | Class 12 Mathematics NEB\n\nWelcome to Part 1 of the Complex Numbers question-solving series for Class 12 Mathematics (NEB Nepal).\n\nIn the previous lecture, we covered the basic theory, concepts, and important formulas of Complex Numbers. Now it's time to apply those concepts to important questions and problems.\n\nIn this session, we will solve Class 12 Complex Number questions step by step, focusing on understanding the method rather than simply memorizing the solution.\n\n📚 In This Video:\n\n✅ Complex Number important questions\n✅ Complex Number numerical problems\n✅ Step-by-step problem solving\n✅ Exercise-based questions\n✅ Application of Complex Number formulas\n✅ Exam-oriented questions\n✅ NEB Class 12 Mathematics preparation\n✅ Important questions for board examination\n✅ Problem-solving techniques\n\nThis video is especially useful for students preparing for the Class 12 NEB Mathematics Board Examination.\n\n📌 This is Part 1 of the Complex Numbers question-solving series. More important questions will be covered in the upcoming parts.\n\n🎓 Course Information\n\nClass: 12\nSubject: Mathematics\nChapter: Complex Numbers\nTopic: Question Solving\nCurriculum: NEB Nepal\n\n💡 Try solving each question yourself before watching the complete solution. This will help you develop genuine problem-solving skills and identify which concepts you need to revise.\n\n📱 Visit us for more:\n▶️ Youtube: @gravicos\n📸 Instagram: @gravicos\n🎵 TikTok: @gravicos\n👥 Facebook: @gravicos\n\n\n#ComplexNumbers #Class12Mathematics #NEBMath #ComplexNumber #Class12Math #NEBNepal #Gravicos",
+    "isCrawlable": true,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/WUEQnAbOwY8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAttbEKn3CqtZ3o62H6--hVKWxyaQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WUEQnAbOwY8/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDmLU2kFCRWOTdSkloqgRH-ReSC8Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WUEQnAbOwY8/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALrA-gs4EFvdEiwIUpN9T4wfk8hg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WUEQnAbOwY8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDBJRzQ3ZhXadw5KAY56ks3SsgDwg",
+          "width": 336,
+          "height": 188
+        },
+        {
+          "url": "https://i.ytimg.com/vi/WUEQnAbOwY8/maxresdefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "allowRatings": true,
+    "viewCount": "45",
+    "author": "Gravicos",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false,
+    "isTvfilmVideo": false
+  },
+  "playerConfig": {
+    "granularVariableSpeedConfig": {
+      "minimumPlaybackRate": 25,
+      "maximumPlaybackRate": 200,
+      "stepSize": 5,
+      "defaultPlaybackRateOptions": [
+        {
+          "label": "१.०",
+          "value": 100,
+          "isPremiumUpsell": false,
+          "priority": 5
+        },
+        {
+          "label": "१.२५",
+          "value": 125,
+          "isPremiumUpsell": false,
+          "priority": 2
+        },
+        {
+          "label": "१.५",
+          "value": 150,
+          "isPremiumUpsell": false,
+          "priority": 3
+        },
+        {
+          "label": "१.७५",
+          "value": 175,
+          "isPremiumUpsell": false,
+          "priority": 0
+        },
+        {
+          "label": "२.०",
+          "value": 200,
+          "isPremiumUpsell": false,
+          "priority": 4
+        },
+        {
+          "label": "३.०",
+          "value": 300,
+          "isPremiumUpsell": true,
+          "priority": 1
+        }
+      ]
+    },
+    "vssClientConfig": {
+      "vssUsePostRequest": true
+    },
+    "audioConfig": {
+      "loudnessDb": -2.0799999,
+      "perceptualLoudnessDb": -16.08,
+      "enablePerFormatLoudness": true,
+      "trackAbsoluteLoudnessLkfs": -16.08,
+      "loudnessTargetLkfs": -14,
+      "loudnessNormalizationConfig": {
+        "applyStatefulNormalization": false,
+        "preserveStatefulLoudnessTarget": true,
+        "maxStatefulTimeThresholdSec": 300,
+        "minimumLoudnessTargetLkfs": -31
+      }
+    },
+    "streamSelectionConfig": {
+      "maxBitrate": "13160000"
+    },
+    "playerControlsConfig": {
+      "showCachedInTimebar": true
+    },
+    "daiConfig": {
+      "sendSsdaiMissingAdBreakReasons": true
+    },
+    "mediaCommonConfig": {
+      "dynamicReadaheadConfig": {
+        "maxReadAheadMediaTimeMs": 120000,
+        "minReadAheadMediaTimeMs": 15000,
+        "readAheadGrowthRateMs": 1000
+      },
+      "mediaUstreamerRequestConfig": {
+        "videoPlaybackUstreamerConfig": "CugGCuUECAAlAACAPy0zM3M_NT0Klz9yBAoAGACgAQGoAQC4AgHaAn0QsOoBGIDd2wEgoJwBKKCcAXCIJ4AB9APgAQOYAgzQAgLoAgSAAwKIA4gnqAMDwAMByAMBgAQB0AQB2AQB-AQHgAV9wAUByAUB4AXQD_gF0A-QBgHQBgHwBgGAB9APgAgBiAgBnQjNzEw-oAjoB-AIAegI____________AfoCRagB0IYDhQKamRk_jQIAAIA_wALfA_0CzczMPZADAZ0DCtcjPdUEAAAgQbUGvTeGNb0GMzODQMgHAeUHAIAJRPAHAYAIAagDAbADA9ADAdgDAcoEHAoTCMCpBxCYdRjoByUAAAAAKAAwABDg1AMY0A_SBA8KCAiwCRCwCSABIIgnKAHaBA0KBgjwLhDwLiDwLigBmAYBqAaAgALSBhQI6AcQZBoNCIgnFQAAAD8dzcxMP9gGAbgHAaAIAdIIBggBEAEYAakJAAAAAAAA8L-xCQAAAAAAAPC_0AkB2gkkU3BrWXNpRTJ1Q0Z6Tis2SC9YNWRFL3o5aFF6VG1CeUNlYktOoAsB6gsEiwaMBoAMAagMkAHYDAHgDQHIDwHQDwGYEAHoEAGQEQGgEQHQEgHgEgGAEwGwEwHYEwDoEwGIFACRFAAAAAAAAPC_mRQAAAAAAADwv8oUEXYyMDI1MDkyMl8xMjI2LjAw2BSIJ-IUOAoAEjRDQU1TSWhVbnVMYkpESlVDbkE3NUZaNEY0QmJPMndfcEFiTUFEQVJOS2dTS0JqQUhtd0U9gRUAAAAAAADwv5gVAagVAbgVAcgVAYinocoLATIMCIkBENO2h5m95JYDMgwIjwMQ-KWmnr3klgMyDAiIARDArtOYveSWAzIMCI4DEMOr2K695JYDMgwIjQMQ3dmpm73klgMyDAiGARDR96iYveSWAzIMCPMBELT-2qC95JYDMgwIjAMQq-Xjob3klgMyDAiLAxDG9Z2lveSWAzIMCKABELfRmpi95JYDMgwIigMQgr3Crb3klgMyDAiMARCf1oulveSWAzIMCPsBEKGw4J695JYDOgBSKRoDenh4KAAyGFVDekJBSEhBeFJLSUxZUVR0dmppcmd0UUAAWABgAHgAoAEBsAEFugEDBAUxwgEIAQIDBAUIKjDQAQCAAgASTABNNs9kMEUCIA3aCql9KG5whXVUHSTqbplZXUCVqFOJ3H8a0t4mDMj9AiEAhxDeYM50zkSYQpQn9_C64k-mFRUsyxVK9ciLj4FjocoaAmVp"
+      },
+      "useServerDrivenAbr": true,
+      "serverPlaybackStartConfig": {
+        "enable": true,
+        "playbackStartPolicy": {
+          "startMinReadaheadPolicy": [
+            {
+              "minReadaheadMs": 1200
+            }
+          ]
+        }
+      },
+      "platypusUseEnvoyNetFetch": false,
+      "fixLivePlaybackModelDefaultPosition": false
+    },
+    "webPlayerConfig": {
+      "useCobaltTvosDash": true,
+      "webPlayerActionsPorting": {
+        "getSharePanelCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/share/get_web_player_share_panel"
+            }
+          },
+          "webPlayerShareEntityServiceEndpoint": {
+            "serializedShareEntity": "CgtXVUVRbkFiT3dZOA%3D%3D"
+          }
+        },
+        "subscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/subscribe"
+            }
+          },
+          "subscribeEndpoint": {
+            "channelIds": [
+              "UCzBAHHAxRKILYQTtvjirgtQ"
+            ],
+            "params": "EgIIBxgA"
+          }
+        },
+        "unsubscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+            }
+          },
+          "unsubscribeEndpoint": {
+            "channelIds": [
+              "UCzBAHHAxRKILYQTtvjirgtQ"
+            ],
+            "params": "CgIIBxgA"
+          }
+        },
+        "addToWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "addedVideoId": "WUEQnAbOwY8",
+                "action": "ACTION_ADD_VIDEO"
+              }
+            ]
+          }
+        },
+        "removeFromWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                "removedVideoId": "WUEQnAbOwY8"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "storyboards": {
+    "playerStoryboardSpecRenderer": {
+      "spec": "https://i.ytimg.com/sb/WUEQnAbOwY8/storyboard3_L$L/$N.jpg?sqp=-oaymwGhAUg48quKqQOYAYgBAZUBAAAEQpgBMqABPKgBBLIBQBANDBAVHyYtDg4PEhcrLCkPDhAVHyoyKQ8RFBgmPTgtERQeKjFLRzYVHCkuOUdNPyUuNz1HUlFFM0BCQ0xERkO6AUARERUjRENDQxETFi9DQ0NDFRYpQ0NDQ0MjL0NDQ0NDQ0RDQ0NDQ0JCQ0NDQ0NCQkJDQ0NDQkJCQkNDQ0JCQkJCovOX_wMGCM7Ei9UG|48#27#100#10#10#0#default#rs$AOn4CLBgqDoPUQGPppcqiXe-Xn9Gv8_Fmg|80#45#244#10#10#10000#M$M#rs$AOn4CLBz6anK9qqEAS-FjsaZXrwj6tXeGg|160#90#244#5#5#10000#M$M#rs$AOn4CLC1WgmcYcnuD6GmXFYSveUHWXAAdw|320#180#244#3#3#10000#M$M#rs$AOn4CLC84JmUfQcJcYuET3F4T2Cvxg4ong",
+      "recommendedLevel": 3,
+      "fineScrubbingRecommendedLevel": 2,
+      "highResolutionRecommendedLevel": 3
+    }
+  },
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/WUEQnAbOwY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      "embed": {
+        "iframeUrl": "https://www.youtube.com/embed/WUEQnAbOwY8",
+        "width": 1280,
+        "height": 720
+      },
+      "title": {
+        "simpleText": "Complex Number Questions & Solutions | Part 1 | Class 12 NEB"
+      },
+      "description": {
+        "simpleText": "Complex Numbers Questions | Problem Solving Part 1 | Class 12 Mathematics NEB\n\nWelcome to Part 1 of the Complex Numbers question-solving series for Class 12 Mathematics (NEB Nepal).\n\nIn the previous lecture, we covered the basic theory, concepts, and important formulas of Complex Numbers. Now it's time to apply those concepts to important questions and problems.\n\nIn this session, we will solve Class 12 Complex Number questions step by step, focusing on understanding the method rather than simply memorizing the solution.\n\n📚 In This Video:\n\n✅ Complex Number important questions\n✅ Complex Number numerical problems\n✅ Step-by-step problem solving\n✅ Exercise-based questions\n✅ Application of Complex Number formulas\n✅ Exam-oriented questions\n✅ NEB Class 12 Mathematics preparation\n✅ Important questions for board examination\n✅ Problem-solving techniques\n\nThis video is especially useful for students preparing for the Class 12 NEB Mathematics Board Examination.\n\n📌 This is Part 1 of the Complex Numbers question-solving series. More important questions will be covered in the upcoming parts.\n\n🎓 Course Information\n\nClass: 12\nSubject: Mathematics\nChapter: Complex Numbers\nTopic: Question Solving\nCurriculum: NEB Nepal\n\n💡 Try solving each question yourself before watching the complete solution. This will help you develop genuine problem-solving skills and identify which concepts you need to revise.\n\n📱 Visit us for more:\n▶️ Youtube: @gravicos\n📸 Instagram: @gravicos\n🎵 TikTok: @gravicos\n👥 Facebook: @gravicos\n\n\n#ComplexNumbers #Class12Mathematics #NEBMath #ComplexNumber #Class12Math #NEBNepal #Gravicos"
+      },
+      "lengthSeconds": "2425",
+      "ownerProfileUrl": "http://www.youtube.com/@gravicos",
+      "externalChannelId": "UCzBAHHAxRKILYQTtvjirgtQ",
+      "isFamilySafe": true,
+      "availableCountries": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AI",
+        "AL",
+        "AM",
+        "AO",
+        "AQ",
+        "AR",
+        "AS",
+        "AT",
+        "AU",
+        "AW",
+        "AX",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BL",
+        "BM",
+        "BN",
+        "BO",
+        "BQ",
+        "BR",
+        "BS",
+        "BT",
+        "BV",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CC",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CK",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CW",
+        "CX",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "EH",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FK",
+        "FM",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GL",
+        "GM",
+        "GN",
+        "GP",
+        "GQ",
+        "GR",
+        "GS",
+        "GT",
+        "GU",
+        "GW",
+        "GY",
+        "HK",
+        "HM",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IO",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MF",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MP",
+        "MQ",
+        "MR",
+        "MS",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NF",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NU",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PM",
+        "PN",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SH",
+        "SI",
+        "SJ",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SX",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TF",
+        "TG",
+        "TH",
+        "TJ",
+        "TK",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UM",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VI",
+        "VN",
+        "VU",
+        "WF",
+        "WS",
+        "YE",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "isUnlisted": false,
+      "hasYpcMetadata": false,
+      "viewCount": "45",
+      "category": "Autos & Vehicles",
+      "publishDate": "2026-09-12T02:31:09-07:00",
+      "ownerChannelName": "Gravicos",
+      "uploadDate": "2026-09-12T02:31:09-07:00",
+      "isShortsEligible": false,
+      "externalVideoId": "WUEQnAbOwY8",
+      "likeCount": "3",
+      "canonicalUrl": "https://www.youtube.com/watch?v=WUEQnAbOwY8"
+    }
+  },
+  "cards": {
+    "cardCollectionRenderer": {
+      "cards": [
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "गरिएका सुधारहरू हेर्नुहोस्"
+                },
+                "trackingParams": "CBMQ0DYiEwiS0en0v_CWAxVypKwCHTY1IHg=",
+                "prominent": true,
+                "logVisibilityUpdates": true,
+                "onTapCommand": {
+                  "clickTrackingParams": "CBMQ0DYiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+                  "changeEngagementPanelVisibilityAction": {
+                    "targetId": "engagement-panel-error-corrections",
+                    "visibility": "ENGAGEMENT_PANEL_VISIBILITY_EXPANDED"
+                  }
+                }
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "0",
+                "endCardActiveMs": "5000",
+                "teaserDurationMs": "6000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "trackingParams": "CBIQtZcBGAAiEwiS0en0v_CWAxVypKwCHTY1IHg="
+          }
+        }
+      ],
+      "headerText": {
+        "simpleText": "Gravicos बाट"
+      },
+      "icon": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CBEQsJcBIhMIktHp9L_wlgMVcqSsAh02NSB4"
+        }
+      },
+      "closeButton": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CBAQsZcBIhMIktHp9L_wlgMVcqSsAh02NSB4"
+        }
+      },
+      "trackingParams": "CA8QwjciEwiS0en0v_CWAxVypKwCHTY1IHg=",
+      "allowTeaserDismiss": true,
+      "logIconVisibilityUpdates": true
+    }
+  },
+  "trackingParams": "CAAQu2kiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+  "messages": [
+    {
+      "mealbarPromoRenderer": {
+        "icon": {
+          "thumbnails": [
+            {
+              "url": "https://www.gstatic.com/youtube/img/promos/growth/6ad5a99c727579634bc3e2fb67562a2621170bdd11578967392667be5a05c5e4_384x384.png",
+              "width": 384,
+              "height": 384
+            }
+          ]
+        },
+        "messageTexts": [
+          {
+            "runs": [
+              {
+                "text": "विज्ञापनरहित YouTube प्राप्त गर्नुहोस्"
+              }
+            ]
+          }
+        ],
+        "actionButton": {
+          "buttonRenderer": {
+            "style": "STYLE_MONO_FILLED",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "१ महिना निःशुल्क"
+                }
+              ]
+            },
+            "trackingParams": "CA4Q7G8iEwiS0en0v_CWAxVypKwCHTY1IHg=",
+            "command": {
+              "clickTrackingParams": "CA4Q7G8iEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+              "commandExecutorCommand": {
+                "commands": [
+                  {
+                    "clickTrackingParams": "CA4Q7G8iEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "/premium?ybp=Eg9GRXdoYXRfdG9fd2F0Y2gqEmRtZWEtYWNxLWMtZWdzb1ZEZDoaCAYYASoUChJkbWVhLWFjcS1jLWVnc29WRGQ%253D",
+                        "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                        "rootVe": 93498,
+                        "apiUrl": "/youtubei/v1/browse"
+                      }
+                    },
+                    "browseEndpoint": {
+                      "browseId": "SPunlimited",
+                      "params": "kgNBEg9GRXdoYXRfdG9fd2F0Y2gqEmRtZWEtYWNxLWMtZWdzb1ZEZDoaCAYYASoUChJkbWVhLWFjcS1jLWVnc29WRGQ%3D"
+                    }
+                  },
+                  {
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/feedback"
+                      }
+                    },
+                    "feedbackEndpoint": {
+                      "feedbackToken": "AB9zfpKPbQ_mDmHUtyhxvbtGuIHnAgp5OTj1OknXLp5tdebm43dbfE4g-lTmSEnk0kdhb5Eg4k1iVC0Uy-Dg6uiIalJXyDgEhVgzEeZAIEUV_FDyKp2EXza7L9S0raqaOeVUq6pNCRazL0q8vsle9rgcvx8twPrn0SJvo8F9WDZ_Dhg8HfsQbSQ",
+                      "uiActions": {
+                        "hideEnclosingContainer": true
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "dismissButton": {
+          "buttonRenderer": {
+            "style": "STYLE_MONO_TONAL",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "पर्दैन, धन्यवाद"
+                }
+              ]
+            },
+            "trackingParams": "CA0Q7W8iEwiS0en0v_CWAxVypKwCHTY1IHg=",
+            "command": {
+              "clickTrackingParams": "CA0Q7W8iEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+              "commandExecutorCommand": {
+                "commands": [
+                  {
+                    "clickTrackingParams": "CA0Q7W8iEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/feedback"
+                      }
+                    },
+                    "feedbackEndpoint": {
+                      "feedbackToken": "AB9zfpJMGnUrznHODUk1fW4u4UmCZ0P9htnBR2ZQ4pb5SSReEmTABqzuWK85YMWYS5zOFWKluQeaca8r43dO46ruquSZZSextk176k-OcsPYevkIltxZp90nyfBz6Y_VbNKQtHsC8KhDsspZLYP1pG5lFBZUd0DMz6ceKrl-ymKQK18bY-YdJho",
+                      "uiActions": {
+                        "hideEnclosingContainer": true
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "triggerCondition": "TRIGGER_CONDITION_POST_AD",
+        "style": "STYLE_MODERN",
+        "trackingParams": "CAwQ42kYACITCJLR6fS_8JYDFXKkrAIdNjUgeA==",
+        "impressionEndpoints": [
+          {
+            "clickTrackingParams": "CAwQ42kYACITCJLR6fS_8JYDFXKkrAIdNjUgeMoBBLmDDrM=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "sendPost": true,
+                "apiUrl": "/youtubei/v1/feedback"
+              }
+            },
+            "feedbackEndpoint": {
+              "feedbackToken": "AB9zfpJAsqlnzULNg-MwKN3gWEOHnKTypvxZfnafA-e2pOIEBtL-D0-GnxZG9N9pnnCMqGiiVqNrs8mAckDmUi-VtXoCHvG5oDtiism9-0BaDfY2ntPAtL9tb3pXMHeYVDz4RoxwDiZgYGCN1eyULxHLcP5UEI6Xq-kz_dvgaMiR5lNRsGYLYw0",
+              "uiActions": {
+                "hideEnclosingContainer": false
+              }
+            }
+          }
+        ],
+        "isVisible": true,
+        "messageTitle": {
+          "runs": [
+            {
+              "text": "YouTube Premium"
+            }
+          ]
+        },
+        "iconDark": {
+          "thumbnails": [
+            {
+              "url": "https://www.gstatic.com/youtube/img/promos/growth/6ad5a99c727579634bc3e2fb67562a2621170bdd11578967392667be5a05c5e4_384x384.png",
+              "width": 384,
+              "height": 384
+            }
+          ]
+        },
+        "supplementalText": {
+          "runs": [
+            {
+              "text": "सर्तहरू लागू हुन्छन्। जुनसुकै बेला रद्द गर्नुहोस्"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "endscreen": {
+    "endscreenRenderer": {
+      "elements": [
+        {
+          "endscreenElementRenderer": {
+            "style": "CHANNEL",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/RxdcgkBLG7YEgti937GBA6lPc3urEE0_tIS_anKz1_dHeO9jqrhauMcN1iSeTADdjRk6y0Mqjw=s250-c-k-c0x00ffffff-no-rj",
+                  "width": 250,
+                  "height": 250
+                },
+                {
+                  "url": "https://yt3.ggpht.com/RxdcgkBLG7YEgti937GBA6lPc3urEE0_tIS_anKz1_dHeO9jqrhauMcN1iSeTADdjRk6y0Mqjw=s400-c-k-c0x00ffffff-no-rj",
+                  "width": 400,
+                  "height": 400
+                }
+              ]
+            },
+            "icon": {
+              "thumbnails": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/annotations/youtube.png"
+                }
+              ]
+            },
+            "left": 0.42280701,
+            "width": 0.15438597,
+            "top": 0.4228881,
+            "aspectRatio": 1,
+            "startMs": "2418004",
+            "endMs": "2424633",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Gravicos, च्यानल"
+                }
+              },
+              "simpleText": "Gravicos"
+            },
+            "metadata": {
+              "simpleText": "Gravicos is a dedicated learning platform for Class 11 and 12 students who want to master Physics and Mathematics with clarity and confidence. We break down complex concepts into simple explanations, provide detailed problem-solving strategies, and help you build a strong foundation for board exams, entrance tests, and beyond. Whether you're revising for school or preparing for future studies, Gravicos brings you focused, reliable, and high-quality educational content.\n"
+            },
+            "callToAction": {
+              "simpleText": "च्यानलमा जानुहोस्"
+            },
+            "dismiss": {
+              "simpleText": "रद्द गर्नुहोस्"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAcQ-N4BGAAiEwiS0en0v_CWAxVypKwCHTY1IHgyDGl2LWVuZHNjcmVlbkiPg7u2wJPEoFnKAQS5gw6z",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCzBAHHAxRKILYQTtvjirgtQ",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCzBAHHAxRKILYQTtvjirgtQ"
+              }
+            },
+            "hovercardButton": {
+              "subscribeButtonRenderer": {
+                "buttonText": {
+                  "runs": [
+                    {
+                      "text": "सदस्यता लिनुहोस्"
+                    }
+                  ]
+                },
+                "subscribed": false,
+                "enabled": true,
+                "type": "FREE",
+                "channelId": "UCzBAHHAxRKILYQTtvjirgtQ",
+                "showPreferences": false,
+                "subscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "सब्स्क्राइब गरिएको"
+                    }
+                  ]
+                },
+                "unsubscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "सदस्यता लिनुहोस्"
+                    }
+                  ]
+                },
+                "trackingParams": "CAgQmysiEwiS0en0v_CWAxVypKwCHTY1IHgyDGl2LWVuZHNjcmVlbg==",
+                "unsubscribeButtonText": {
+                  "runs": [
+                    {
+                      "text": "सदस्यता रद्द गर्नुहोस्"
+                    }
+                  ]
+                },
+                "serviceEndpoints": [
+                  {
+                    "clickTrackingParams": "CAgQmysiEwiS0en0v_CWAxVypKwCHTY1IHgyDGl2LWVuZHNjcmVlbsoBBLmDDrM=",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/subscription/subscribe"
+                      }
+                    },
+                    "subscribeEndpoint": {
+                      "channelIds": [
+                        "UCzBAHHAxRKILYQTtvjirgtQ"
+                      ],
+                      "params": "EgIIBBgAWAE%3D"
+                    }
+                  },
+                  {
+                    "clickTrackingParams": "CAgQmysiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true
+                      }
+                    },
+                    "signalServiceEndpoint": {
+                      "signal": "CLIENT_SIGNAL",
+                      "actions": [
+                        {
+                          "clickTrackingParams": "CAgQmysiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+                          "openPopupAction": {
+                            "popup": {
+                              "confirmDialogRenderer": {
+                                "trackingParams": "CAkQxjgiEwiS0en0v_CWAxVypKwCHTY1IHg=",
+                                "dialogMessages": [
+                                  {
+                                    "runs": [
+                                      {
+                                        "text": "Gravicos"
+                                      },
+                                      {
+                                        "text": " लाई अनसब्स्क्राइब गर्ने हो?"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "confirmButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_BLUE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "सदस्यता रद्द गर्नुहोस्"
+                                        }
+                                      ]
+                                    },
+                                    "serviceEndpoint": {
+                                      "clickTrackingParams": "CAsQ8FsiEwiS0en0v_CWAxVypKwCHTY1IHgyDGl2LWVuZHNjcmVlbsoBBLmDDrM=",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                                        }
+                                      },
+                                      "unsubscribeEndpoint": {
+                                        "channelIds": [
+                                          "UCzBAHHAxRKILYQTtvjirgtQ"
+                                        ],
+                                        "params": "CgIIBBgAMAE%3D"
+                                      }
+                                    },
+                                    "accessibility": {
+                                      "label": "सदस्यता रद्द गर्नुहोस्"
+                                    },
+                                    "trackingParams": "CAsQ8FsiEwiS0en0v_CWAxVypKwCHTY1IHg="
+                                  }
+                                },
+                                "cancelButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "रद्द गर्नुहोस्"
+                                        }
+                                      ]
+                                    },
+                                    "accessibility": {
+                                      "label": "रद्द गर्नुहोस्"
+                                    },
+                                    "trackingParams": "CAoQ8FsiEwiS0en0v_CWAxVypKwCHTY1IHg="
+                                  }
+                                },
+                                "primaryIsCancel": false
+                              }
+                            },
+                            "popupType": "DIALOG"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "subscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Gravicos को सदस्यता लिनुहोस्।"
+                  }
+                },
+                "unsubscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Gravicos को सदस्यता रद्द गर्नुहोस्।"
+                  }
+                },
+                "signInEndpoint": {
+                  "clickTrackingParams": "CAgQmysiEwiS0en0v_CWAxVypKwCHTY1IHjKAQS5gw6z",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dne%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCzBAHHAxRKILYQTtvjirgtQ%26feature%3Div-endscreen%26continue_action%3DQUZZTVljRzJNNjZ6dko4VDRaWV92ME9rRTl2VXxBTl9pYzRmX1EwdTFZd3ZVY3pkdmNnRGFSZ0hfRVU2ai1EdEg2X2YxM1hmUDlONTVxZUVjdi1uRXhwN1QwaWUzb3pwbVI4UGNDRWZ6OG1hM3Z6VGJBUng2MTZKYndUOTJ3eExJU3FnejZjWVY2ZFp0eEVBTjRSdmY4d3BkQ1VCb1NGX0o4dTZxOHlFOWZEaTR4YXN0VE91WU5rRUV1V3h6SElkdmhZZDdBTWNHZWlxektCaGViQjRQX3Qw&hl=ne"
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAcQ-N4BGAAiEwiS0en0v_CWAxVypKwCHTY1IHg=",
+            "isSubscribe": true,
+            "id": "938997460667638332"
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "VIDEO",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/6KNz_AQD1dE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHAJsHZYcwdMNgdkeWqrGtL5Hkvw",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/6KNz_AQD1dE/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIOa1Wkupw13LpBvmNg1xbsg59kA",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/6KNz_AQD1dE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0oQTWChWbUU1VcFffj_iuscJt9w",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/6KNz_AQD1dE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxwn5EVQNhqlZyHVIMfnjMq-BhjQ",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/6KNz_AQD1dE/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "left": 0.064912282,
+            "width": 0.32280701,
+            "top": 0.40131962,
+            "aspectRatio": 1.7777778,
+            "startMs": "2418004",
+            "endMs": "2424633",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Gauss Seidel Method Trick Class 12 || Last Minute Series 03, भिडियो"
+                }
+              },
+              "simpleText": "Gauss Seidel Method Trick Class 12 || Last Minute Series 03"
+            },
+            "metadata": {
+              "simpleText": "1,513 भ्यु"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAYQ8N4BGAEiEwiS0en0v_CWAxVypKwCHTY1IHgyDGl2LWVuZHNjcmVlbkiPg7u2wJPEoFmaAQMQu2nKAQS5gw6z",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=6KNz_AQD1dE&pp=0gcJCQQBHUcdqGbM",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                },
+                "interactionLoggingCommandMetadata": {
+                  "loggingExpectations": {
+                    "screenCreatedLoggingExpectations": {
+                      "expectedParentScreens": [
+                        {
+                          "screenVeType": 3832
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "6KNz_AQD1dE",
+                "playerParams": "0gcJCQQBHUcdqGbM",
+                "watchEndpointSupportedOnesieConfig": {
+                  "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                      "url": "https://rr3---sn-jboxuo2-3uhe.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&olis=1&msp=1&odepv=1&id=e8a373fc0403d5d1&ip=2400%3A74e0%3A0%3Aa6e7%3Afc%3A38f9%3A39%3A15ab&initcwndbps=1645000&mt=1789471728&oweuc="
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAYQ8N4BGAEiEwiS0en0v_CWAxVypKwCHTY1IHg=",
+            "id": "938997460667638889",
+            "thumbnailOverlays": [
+              {
+                "thumbnailOverlayTimeStatusRenderer": {
+                  "text": {
+                    "accessibility": {
+                      "accessibilityData": {
+                        "label": "14 मिनेट, 25 सेकेन्ड"
+                      }
+                    },
+                    "simpleText": "14:25"
+                  },
+                  "style": "DEFAULT"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "PLAYLIST",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/9NTBIg0mZmA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB20Ua81VTmjAozUcRkJrKfuWa14A",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/9NTBIg0mZmA/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJk-a85JQScz0o_rVFB9j9nxjIGQ",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/9NTBIg0mZmA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBrdExiBmBSayUHweIYceYRvaXOCA",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/9NTBIg0mZmA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAxC97hnEOwCnFaECDmXYsW8oivA",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/9NTBIg0mZmA/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "playlistLength": {
+              "simpleText": "7 भिडियोहरू"
+            },
+            "left": 0.63489205,
+            "width": 0.32280701,
+            "top": 0.40131962,
+            "aspectRatio": 1.7777778,
+            "startMs": "2418004",
+            "endMs": "2424633",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "7 भिडियोहरू, Class 12 Exam Preparation || Last Minute Series"
+                }
+              },
+              "simpleText": "Class 12 Exam Preparation || Last Minute Series"
+            },
+            "metadata": {
+              "simpleText": "Gravicos ले लेख्नुभएको"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAUQ894BGAIiEwiS0en0v_CWAxVypKwCHTY1IHgyDGl2LWVuZHNjcmVlbkiPg7u2wJPEoFmaAQMQu2nKAQS5gw6z",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=9NTBIg0mZmA&list=PLuNhwGBk99_0feH5z_WZmz_pPE8xK4uVj",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "9NTBIg0mZmA",
+                "playlistId": "PLuNhwGBk99_0feH5z_WZmz_pPE8xK4uVj",
+                "loggingContext": {
+                  "vssLoggingContext": {
+                    "serializedContextData": "GiJQTHVOaHdHQms5OV8wZmVINXpfV1ptel9wUEU4eEs0dVZq"
+                  }
+                },
+                "watchEndpointSupportedOnesieConfig": {
+                  "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                      "url": "https://rr2---sn-jboxuo2-3uhl.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&olis=1&msp=1&odepv=1&id=f4d4c1220d266660&ip=2400%3A74e0%3A0%3Aa6e7%3Afc%3A38f9%3A39%3A15ab&initcwndbps=1645000&mt=1789471728&oweuc="
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAUQ894BGAIiEwiS0en0v_CWAxVypKwCHTY1IHg=",
+            "id": "938997460667639446"
+          }
+        }
+      ],
+      "startMs": "2418004",
+      "trackingParams": "CAEQ794BIhMIktHp9L_wlgMVcqSsAh02NSB4",
+      "hideButton": {
+        "toggleButtonViewModel": {
+          "defaultButtonViewModel": {
+            "buttonViewModel": {
+              "iconName": "VISIBILITY_OFF",
+              "title": "लुकाउनुहोस्",
+              "onTap": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CAQQ088OIhMIktHp9L_wlgMVcqSsAh02NSB4ygEEuYMOsw==",
+                  "changeCreatorEndscreenVisibilityCommand": {
+                    "hide": true
+                  }
+                }
+              },
+              "accessibilityText": "अन्तिम स्क्रिनमा देखाइने कार्डहरू लुकाउनुहोस्",
+              "style": "BUTTON_VIEW_MODEL_STYLE_OVERLAY",
+              "trackingParams": "CAQQ088OIhMIktHp9L_wlgMVcqSsAh02NSB4",
+              "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL"
+            }
+          },
+          "toggledButtonViewModel": {
+            "buttonViewModel": {
+              "iconName": "VISIBILITY",
+              "title": "देखाउनुहोस्",
+              "onTap": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CAMQ1M8OIhMIktHp9L_wlgMVcqSsAh02NSB4ygEEuYMOsw==",
+                  "changeCreatorEndscreenVisibilityCommand": {
+                    "hide": false
+                  }
+                }
+              },
+              "accessibilityText": "अन्तिम स्क्रिनमा देखाइने कार्डहरू देखाउनुहोस्",
+              "style": "BUTTON_VIEW_MODEL_STYLE_OVERLAY",
+              "trackingParams": "CAMQ1M8OIhMIktHp9L_wlgMVcqSsAh02NSB4",
+              "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL"
+            }
+          },
+          "rendererContext": {
+            "loggingContext": {
+              "loggingDirectives": {
+                "trackingParams": "CAIQ_O4OIhMIktHp9L_wlgMVcqSsAh02NSB4",
+                "visibility": {
+                  "types": "12"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "adBreakHeartbeatParams": "Q0FBJTNE",
+  "frameworkUpdates": {
+    "entityBatchUpdate": {
+      "mutations": [
+        {
+          "entityKey": "Eg0KC1dVRVFuQWJPd1k4IPYBKAE%3D",
+          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+          "payload": {
+            "offlineabilityEntity": {
+              "key": "Eg0KC1dVRVFuQWJPd1k4IPYBKAE%3D",
+              "addToOfflineButtonState": "ADD_TO_OFFLINE_BUTTON_STATE_UNKNOWN"
+            }
+          }
+        }
+      ],
+      "timestamp": {
+        "seconds": "1789472330",
+        "nanos": 723351564
+      }
+    }
+  }
+}
