@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://gravicos.com/sitemap.xml',
+    sitemap: 'https://gravicos.vercel.app/sitemap.xml',
   }
 }

@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 import Script from 'next/script'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://gravicos.com'),
+  metadataBase: new URL('https://gravicos.vercel.app'),
   title: {
     template: '%s | Gravicos',
     default: 'Gravicos — Physics & Maths for NEB +2 Science Students',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_NP',
-    url: 'https://gravicos.com',
+    url: 'https://gravicos.vercel.app',
     title: 'Gravicos — Physics & Maths for NEB +2 Science Students',
     description: 'Free video lessons for Nepali +2 Science and Management students. Master NEB Class 11 and 12 Physics and Mathematics.',
     siteName: 'Gravicos',
@@ -58,7 +58,7 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'EducationalOrganization',
   name: 'Gravicos',
-  url: 'https://gravicos.com',
+  url: 'https://gravicos.vercel.app',
   logo: 'https://yt3.googleusercontent.com/RxdcgkBLG7YEgti937GBA6lPc3urEE0_tIS_anKz1_dHeO9jqrhauMcN1iSeTADdjRk6y0Mqjw=s160-c-k-c0x00ffffff-no-rj',
   description: 'An educational platform dedicated to teaching Mathematics and Physics for NEB +2 Science and Management students in Nepal.',
   sameAs: [

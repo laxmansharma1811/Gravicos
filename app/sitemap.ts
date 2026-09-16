@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllVideos } from '@/data/videos'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://gravicos.com'
+  const baseUrl = 'https://gravicos.vercel.app'
   
   // Static routes
   const routes = ['', '/about', '/contact', '/courses', '/videos'].map(
