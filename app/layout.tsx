@@ -28,6 +28,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: 'Gravicos Education' }],
   creator: 'Gravicos',
+  alternates: {
+    canonical: 'https://gravicos.vercel.app',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_NP',
